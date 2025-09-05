@@ -5,7 +5,8 @@ Welcome to my **Indie Game Collection**! This repository showcases my small-scal
 ## Current Project
 ### [Crush on You!](https://amorygamestudio.itch.io/crush-on-you)
 - **Platform:** Web / Windows  
-- **Engine:** GameMaker Studio 2  
+- **Engine:** GameMaker Studio 2
+- **Worked on:** Game Design & Programming
 - **Description:** Your ex is mocking you from the street… so what do you do? Grab whatever you can find and start hurling it from the balcony! 
 - **Play it on Itch.io:** [Link](https://amorygamestudio.itch.io/crush-on-you)
 
