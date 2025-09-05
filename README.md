@@ -4,6 +4,7 @@ Welcome to my **Indie Game Collection**! This repository showcases my small-scal
 
 ## Current Project
 ### [Crush on You!](https://amorygamestudio.itch.io/crush-on-you)
+### <img width="960" alt="2025-08-24_23h46_05" src="https://github.com/user-attachments/assets/9c961f05-d9c8-457f-be8e-22e0635e38d3" />
 - **Platform:** Web / Windows  
 - **Engine:** GameMaker Studio 2
 - **Worked on:** Game Design & Programming
