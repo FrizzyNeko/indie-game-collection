@@ -30,6 +30,8 @@ I create these games as a playground to improve my skills in gameplay design, st
 
 GitHub: FrizzyNeko
 
+[LinkedIn](https://www.linkedin.com/in/asrinsenemoglu)
+
 Email: asrin.senemoglu@gmail.com
 
 Thanks for stopping by!
